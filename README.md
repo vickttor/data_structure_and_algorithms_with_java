@@ -1,7 +1,45 @@
-## Getting Started
+## Data Structure and Algorithms with Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Learning data structure and algorithms with java by using a Youtube video from
+`@Bro Code` channe. The link access is the follows: [Learn Data Structures and Algorithms for free](https://youtu.be/CBYHwZcbD-s)
 
+### Data Structures:
+
+- [Stack](./src/structure/MStack.java)
+- [Queues]()
+- [Priority Queues]()
+- [Linked List]()
+- [Dynamic Arrays]()
+- [Linked List vs Array lists]()
+- [Dynamic Arrays]()
+- [Dynamic Arrays]()
+- [hash tables]()
+- [Graphs]()
+- [Adjacency Matrix]()
+- [Adjacency List]()
+- [Tree]()
+
+### Concepts
+
+- [Big O Notation]()
+- [Recursion]()
+- [Calculation Execution Time]()
+
+### Algorithms
+
+- [Linear Search]() O(n)
+- [Binary Search]() O(log n)
+- [Interpolation Search]() 
+- [Bubble Sort]() 
+- [Selection Sort]() O(n^2)
+- [Insertion Sort]()
+- [Merge Sort]()
+- [quick Sort]() O(n log n)
+- [Depth First Search]()
+- [Breadth First Search]()
+- [Tree Binary Search]()
+- [Tree Transversal]()
+ 
 ## Folder Structure
 
 The workspace contains two folders by default, where:
