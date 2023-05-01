@@ -1,5 +1,4 @@
-import structure.MQueue;
-import structure.MStack;
+import structure.*;
 
 public class App {
     public static void main(String[] args) throws Exception {
