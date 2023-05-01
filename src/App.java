@@ -12,5 +12,9 @@ public class App {
         MQueue.run();
         MPriorityQueue.run();
 
+        // Learning LinkedLists
+
+        MLinkedList.run();
+
     }
 }

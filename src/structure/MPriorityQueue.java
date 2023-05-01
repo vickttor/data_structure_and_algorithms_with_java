@@ -6,7 +6,7 @@ public class MPriorityQueue {
   
   public static void run() {
 
-    System.out.println("\n==== Queue ====\n");
+    System.out.println("\n==== Priority Queue ====\n");
 
     /**
      * Priority Queue = A FIFO data Structure that serves elements
@@ -26,7 +26,7 @@ public class MPriorityQueue {
       System.out.println(queue1.poll());
     }
 
-    System.out.println("\n Priority Queues with Strings");
+    System.out.println("\nPriority Queues with Strings\n");
 
     Queue<String> queue2 = new PriorityQueue<>(Collections.reverseOrder());
 
