@@ -51,7 +51,6 @@ public class MQueue {
     System.out.println("Queue contains Kare? -> " + queue.contains("Karen"));
     System.out.println("Queue contains Harold? -> " + queue.contains("Harold"));
 
-
     /**
      * 
      * Collection.add method is common to use to add an element into queue
@@ -68,13 +67,11 @@ public class MQueue {
      * 
      */
 
-
     //  Where ae queues useful?
 
     // 1. Keyboard Buffer (letters should appear on the screen in order they're pressed)
     // 2. Printer Queue (Print jobs, should be completed in order)
     // 3. Used in LinkedLists, PriorityQueues, Breadth-first search
-
 
   }
 
