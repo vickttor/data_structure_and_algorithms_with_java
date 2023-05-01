@@ -1,3 +1,4 @@
+import structure.MQueue;
 import structure.MStack;
 
 public class App {
@@ -7,6 +8,8 @@ public class App {
         
         // Learning Stack
         MStack.run();
+
+        MQueue.run();
 
     }
 }

@@ -5,6 +5,8 @@ import java.util.Stack;
 public class MStack {
 
 	public static void run() {
+
+		System.out.println("\n==== Stack ====\n");
 		
 		/**
 		 * Stack = LIFO data Structure. Last-In First-Out
@@ -40,6 +42,8 @@ public class MStack {
 		
 		// Printing the Entire stack
 		System.out.println(stack);
+
+		System.out.println("Is the stack empty: " + stack.empty());
 
 		/**
 		 * 
