@@ -8,7 +8,9 @@ public class App {
         // Learning Stack
         MStack.run();
 
+        // Learning Queues
         MQueue.run();
+        MPriorityQueue.run();
 
     }
 }
