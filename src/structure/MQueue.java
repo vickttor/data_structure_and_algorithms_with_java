@@ -69,6 +69,13 @@ public class MQueue {
      */
 
 
+    //  Where ae queues useful?
+
+    // 1. Keyboard Buffer (letters should appear on the screen in order they're pressed)
+    // 2. Printer Queue (Print jobs, should be completed in order)
+    // 3. Used in LinkedLists, PriorityQueues, Breadth-first search
+
+
   }
 
 }
