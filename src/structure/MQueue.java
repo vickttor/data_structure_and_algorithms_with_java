@@ -52,10 +52,10 @@ public class MQueue {
 
     /**
      * 
-     * Collection.add method is common to use to add an element into queue
-     * whe error execptions is a common thing to occur. 
+     * Collection.add() method is common to use to add an element into queue
+     * whe error exceptions is a common thing to occur. 
      * 
-     * The Collection.offer method will offer the value to validate if it can be
+     * The Collection.offer() method will offer the value to validate if it can be
      * inserted into the Queue. If it can, it's inserted, otherwise the method
      * returns false.
      * 
@@ -66,7 +66,7 @@ public class MQueue {
      * 
      */
 
-    //  Where ae queues useful?
+    //  Where are queues useful?
 
     // 1. Keyboard Buffer (letters should appear on the screen in order they're pressed)
     // 2. Printer Queue (Print jobs, should be completed in order)
