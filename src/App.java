@@ -1,4 +1,5 @@
 import structure.*;
+import structure.MDynamicArray.*;
 
 public class App {
     public static void main(String[] args) throws Exception {
@@ -13,8 +14,10 @@ public class App {
         MPriorityQueue.run();
 
         // Learning LinkedLists
-
         MLinkedList.run();
+
+        // Dynamic Arrays
+        MDynamicArray.run();
 
     }
 }
