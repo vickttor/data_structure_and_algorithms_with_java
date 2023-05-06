@@ -21,8 +21,10 @@ Learning data structure and algorithms with java by using a Youtube video from
 
 ### Concepts
 
-![Big O Notation](./src/concepts/BigONotation-intro.jpeg)
-![Big O Notation](./src/concepts/BigONotation-speed_variants.jpeg)
+![Big O Notation Introduction](./src/concepts/BigONotation-intro.jpeg)
+![Big O Notation Speed variants](./src/concepts/BigONotation-speed_variants.jpeg)
+![How to shift elements in Dynamic Array](./src/concepts/shiftItemsInDynamicArray.png)
+
 - [Recursion](./)
 - [Calculation Execution Time](./)
 
