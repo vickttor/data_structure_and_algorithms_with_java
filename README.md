@@ -8,13 +8,11 @@ Learning data structure and algorithms with java by using a Youtube video from
 ### Data Structures:
 
 - [Stack](./src/structure/MStack.java)
-- [Queues](./)
-- [Priority Queues](./)
-- [Linked List](./)
-- [Dynamic Arrays](./)
-- [Linked List vs Array lists](./)
-- [Dynamic Arrays](./)
-- [Dynamic Arrays](./)
+- [Queues](./src/structure/MQueue.java)
+- [Priority Queues](./src/structure/MPriorityQueue.java)
+- [Linked List](./src/structure/MLinkedList.java)
+- [Dynamic Arrays](./src/structure/MDynamicArray/MDynamicArray.java)
+- [Linked List vs Array lists](./src/structure/LinkedListVsArrayList.java)
 - [hash tables](./)
 - [Graphs](./)
 - [Adjacency Matrix](./)
@@ -23,20 +21,21 @@ Learning data structure and algorithms with java by using a Youtube video from
 
 ### Concepts
 
-- [Big O Notation](./)
+![Big O Notation](./src/concepts/BigONotation-intro.jpeg)
+![Big O Notation](./src/concepts/BigONotation-speed_variants.jpeg)
 - [Recursion](./)
 - [Calculation Execution Time](./)
 
 ### Algorithms
 
-- [Linear Search](./) O(n)
-- [Binary Search](./) O(log n)
+- [Linear Search](./src/algorithms/MLinearSearch.java) `O(n)`
+- [Binary Search](./) `O(log n)`
 - [Interpolation Search](./)
 - [Bubble Sort](./)
-- [Selection Sort](./) O(n^2)
+- [Selection Sort](./) `O(n^2)`
 - [Insertion Sort](./)
 - [Merge Sort](./)
-- [quick Sort](./) O(n log n)
+- [quick Sort](./) `O(n log n)`
 - [Depth First Search](./)
 - [Breadth First Search](./)
 - [Tree Binary Search](./)

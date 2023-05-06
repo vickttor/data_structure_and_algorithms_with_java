@@ -1,3 +1,4 @@
+import algorithms.MLinearSearch;
 import structure.*;
 import structure.MDynamicArray.*;
 
@@ -6,21 +7,23 @@ public class App {
     
         System.out.println("Learning Data Structure & Algorithms with Java");
         
-        // // Learning Stack
-        // MStack.run();
+        // Learning Stack
+        MStack.run();
 
-        // // Learning Queues
-        // MQueue.run();
-        // MPriorityQueue.run();
+        // Learning Queues
+        MQueue.run();
+        MPriorityQueue.run();
 
-        // // Learning LinkedLists
-        // MLinkedList.run();
+        // Learning LinkedLists
+        MLinkedList.run();
 
-        // // Dynamic Arrays
-        // MDynamicArray.run();
+        // Dynamic Arrays
+        MDynamicArray.run();
 
         // Dynamic Arrays vs LinkedLists
         LinkedListVsArrayList.run();
 
+        // Linear Search (Algorithm)
+        MLinearSearch.run();
     }
 }
