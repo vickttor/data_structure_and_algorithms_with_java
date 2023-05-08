@@ -31,7 +31,7 @@ Learning data structure and algorithms with java by using a Youtube video from
 ### Algorithms
 
 - [Linear Search](./src/algorithms/MLinearSearch.java) `O(n)`
-- [Binary Search](./) `O(log n)`
+- [Binary Search](./src/algorithms//MBinarySearch.java) `O(log n)`
 - [Interpolation Search](./)
 - [Bubble Sort](./)
 - [Selection Sort](./) `O(n^2)`

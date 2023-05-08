@@ -1,4 +1,4 @@
-import algorithms.MLinearSearch;
+import algorithms.*;
 import structure.*;
 import structure.MDynamicArray.*;
 
@@ -25,5 +25,8 @@ public class App {
 
         // Linear Search (Algorithm)
         MLinearSearch.run();
+
+        // Binary Searach (Algorithm)
+        MBinarySearch.run();
     }
 }
