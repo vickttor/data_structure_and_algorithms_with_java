@@ -28,5 +28,9 @@ public class App {
 
         // Binary Searach (Algorithm)
         MBinarySearch.run();
+
+        // Interpolation Search (Algorithm)
+        MInterpolationSearch.run();
+
     }
 }
