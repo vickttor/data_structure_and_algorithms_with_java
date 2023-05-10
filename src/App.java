@@ -35,5 +35,7 @@ public class App {
         // Bubble Sort (Algorithm)
         MBubbleSort.run();
 
+        // Selection Sort (Algorithm)
+        MSelectionSort.run();
     }
 }
