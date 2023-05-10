@@ -32,5 +32,8 @@ public class App {
         // Interpolation Search (Algorithm)
         MInterpolationSearch.run();
 
+        // Bubble Sort (Algorithm)
+        MBubbleSort.run();
+
     }
 }
